@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\racar\OneDrive\Desktop\VS-CB\Grading Calculator\Grading Calculator\Source.cpp(8,21): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\racar\OneDrive\Desktop\VS-CB\Grading Calculator\Grading Calculator\Source.cpp(8,15): warning C4309: 'initializing': truncation of constant value
+  Grading Calculator.vcxproj -> C:\Users\racar\OneDrive\Desktop\VS-CB\Grading Calculator\Debug\Grading Calculator.exe
